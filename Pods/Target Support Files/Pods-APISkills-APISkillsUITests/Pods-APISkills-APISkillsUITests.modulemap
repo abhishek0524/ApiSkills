@@ -1,0 +1,6 @@
+framework module Pods_APISkills_APISkillsUITests {
+  umbrella header "Pods-APISkills-APISkillsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
